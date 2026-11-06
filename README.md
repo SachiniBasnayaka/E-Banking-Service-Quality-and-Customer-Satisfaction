@@ -53,8 +53,6 @@ The proposed research aims to identify service quality dimensions associated wit
 
 The findings are expected to provide insights into how financial institutions can improve the reliability, security, responsiveness, and usability of their digital banking platforms.
 
-*Note: This repository contains a research proposal. The expected outcomes are hypotheses and research expectations, not completed empirical findings.*
-
 **Degree:** BSc (Honours) in Financial Mathematics and Industrial Statistics
 
 **University:** University of Ruhuna, Sri Lanka
